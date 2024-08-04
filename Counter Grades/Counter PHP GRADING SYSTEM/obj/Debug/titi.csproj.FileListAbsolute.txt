@@ -1,0 +1,7 @@
+C:\Users\CJ\source\repos\titi\titi\bin\Debug\titi.exe.config
+C:\Users\CJ\source\repos\titi\titi\bin\Debug\titi.exe
+C:\Users\CJ\source\repos\titi\titi\bin\Debug\titi.pdb
+C:\Users\CJ\source\repos\titi\titi\obj\Debug\titi.csproj.AssemblyReference.cache
+C:\Users\CJ\source\repos\titi\titi\obj\Debug\titi.csproj.CoreCompileInputs.cache
+C:\Users\CJ\source\repos\titi\titi\obj\Debug\titi.exe
+C:\Users\CJ\source\repos\titi\titi\obj\Debug\titi.pdb
